@@ -10,3 +10,5 @@ function foo(num){
         }
     }
 }
+
+module.exports=foo;
