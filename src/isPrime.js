@@ -11,7 +11,7 @@ function foo(num){
         }
     }
     if(a){
-        console.log(x)
+        console.log(num)
     }
 }
 
